@@ -1,2 +1,12 @@
-1. Implement the test for all the extrcation from file to database
-2. Write a function in utilities to implement database to databse comparision
+1. Implement the test for all the extrcation from file to database.
+2. Write a function in utilities to implement database to database comparision.
+3. Implement the functions in utilities
+4. Implement Remaining test cases from :
+   a) Data Extraction
+   b) Data Transformation
+   c) Data Loading
+   d) Data quality
+   e) Schema Validation
+
+
+
